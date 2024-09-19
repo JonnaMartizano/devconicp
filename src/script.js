@@ -1,0 +1,1 @@
+javascript document.addEventListener('DOMContentLoaded', () => { console.log("Welcome to your personal website!"); });
